@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa67206a-9729-414b-9ef3-e200d44ef104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nuber-eats-backend/src/restaurants/dtos/create-restaurant.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuber-eats-backend/src/restaurants/entities/restaurant.entity.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuber-eats-backend/src/restaurants/restaurants.resolver.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609530335428</updated>
-      <workItem from="1609530339473" duration="2740000" />
+      <workItem from="1609530339473" duration="5848000" />
     </task>
     <servers />
   </component>
